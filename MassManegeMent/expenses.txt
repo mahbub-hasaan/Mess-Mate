@@ -1,0 +1,20 @@
+Time: Fri Dec 09 21:37:52 2016
+	 Taka: 1000
+	Name of Consuming:  Shakil
+
+
+Time: Fri Dec 09 21:38:01 2016
+	 Taka: 200
+	Name of Consuming:  Tanjil
+
+
+Time: Fri Dec 09 21:38:33 2016
+	 Taka: 2000
+	Name of Consuming:  Jami
+
+
+Time: Tue Dec 13 03:16:52 2016
+	 Taka: 299
+	Name of Consuming:  Jami
+
+

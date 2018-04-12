@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481348257 source:f:\project\massmanegement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+
